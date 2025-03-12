@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+
+.colorbody{
+    background-color: rgba(61,187,255,1.00);
+}
+
+.colorjumbo{
+    background-color: rgba(207,134,61,1.00);
+}
+
+.colorletras{
+    color: rgba(255,255,255,1.00);	
+}
+
+.colorcards{
+    background-color: #003354;	
+}
